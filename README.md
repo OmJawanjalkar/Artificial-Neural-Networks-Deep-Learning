@@ -1,4 +1,6 @@
-### Artificial Neural Networks - Deep Learning
+# Artificial Neural Networks - Deep Learning
+
+### Customer Churn Classification
 
 A beginner-friendly repository focused on learning and implementing Artificial Neural Networks (ANN) using TensorFlow and Keras.
 
